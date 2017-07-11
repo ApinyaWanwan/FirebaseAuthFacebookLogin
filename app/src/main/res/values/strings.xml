@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">FirebaseAuthFacebookLogin</string>
+    <string name="app_name">FirebaseAuth</string>
+
+    <string name="facebook_app_id">FB_ID_APP</string>
+
+    <string name="welcome">Welcome to Facebook Login</string>
+    <string name="cancel_login">Cancel Login</string>
+    <string name="error_login">Login Error</string>
+    <string name="logout">Logout</string>
+    <string name="firebase_error_login">Error to login on Firebase</string>
 </resources>
