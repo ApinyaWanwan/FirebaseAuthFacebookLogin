@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">FirebaseAuth</string>
 
-    <string name="facebook_app_id">FB_ID_APP</string>
+    <string name="facebook_app_id">252986488534719</string>
 
     <string name="welcome">Welcome to Facebook Login</string>
     <string name="cancel_login">Cancel Login</string>
